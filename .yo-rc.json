@@ -1,0 +1,9 @@
+{
+  "generator-igemwiki": {
+    "year": "2020",
+    "teamName": "Hannover",
+    "repo": "https://github.com/timm-landes/2020-igem-wiki-Hannover",
+    "author": "timmlandes@online.de",
+    "template": "advanced/"
+  }
+}
